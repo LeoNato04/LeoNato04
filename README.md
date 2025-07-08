@@ -54,7 +54,7 @@ Plataforma de apoyo a microempresarios universitarios (Firebase, JS, HTML/CSS).
 <img src="assets/Captura_SanMarket.png" width="400" alt="SanMarket">
 </a>
 <p>
-<a href="https://github.com/LeoNato04/SanMarket" target="_blank">
+<a href="https://github.com/LeoNato04/SanMarket-Plataforma-Web-de-Publicidad-y-Gestion-para-Microempresas-Estudiantiles-UNMSM" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-azul?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -84,24 +84,26 @@ Plataforma de apoyo a microempresarios universitarios (Firebase, JS, HTML/CSS).
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Simulador del Sistema Solar</h3>
+<h3 align="center">DoctorML – Predicción de Riesgo Cardíaco</h3>
 <div align="center">
-<a href="https://github.com/LeoNato04" target="_blank">
-<img src="assets/Captura_Sistema_Solar.png" width="400" alt="Sistema Solar OpenGL">
+<a href="https://github.com/LeoNato04/DoctorML" target="_blank">
+<img src="assets/Captura_DoctorML.png" width="400" alt="DoctorML - Machine Learning">
 </a>
 <p>
-<a href="https://github.com/LeoNato04" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-naranja?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/LeoNato04/DoctorML-Modelo-Predictivo-de-Riesgo-Cardiovascular" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ml-green?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Una simulación del sistema solar en 3D con órbitas, rotaciones reales y enfoque automático con teclas. Compatible con exploración libre.</p>
+<p>
+Aplicación de Machine Learning que utiliza <strong>Random Forest</strong> para predecir el riesgo cardíaco a partir de datos clínicos. Incluye visualización de resultados, análisis estadístico y una interfaz web intuitiva para pruebas interactivas.
+</p>
 </div>
 </td>
 
 <td width="50%">
 <h3 align="center">Modelo Epidemiológico TB</h3>
 <div align="center">
-<a href="https://github.com/LeoNato04" target="_blank">
+<a href="https://github.com/LeoNato04/Interfaz_Modelo_Tuberculosis_con_adherencia_y_conciencia" target="_blank">
 <img src="assets/Captura_Somulador_1.png" width="400" alt="Modelo TB Pakistán">
 </a>
 <p>
