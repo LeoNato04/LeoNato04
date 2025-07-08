@@ -3,7 +3,7 @@
 <p><em>Transformo ciencia, datos y tecnología en soluciones visuales e interactivas.</em></p>
 </div>
 
-<img src="https://i.imgur.com/weNbhGZ.png" alt="Banner Leonel Fortunato">
+<img src="https://ibb.co/q3532MyP" alt="Banner Leonel Fortunato">
 
 [![GitHub followers](https://img.shields.io/github/followers/LeoNato04?style=social)](https://github.com/LeoNato04)
 ![Email](https://img.shields.io/badge/email-leonel.lizarbe@unmsm.edu.pe-blue?style=flat-square&logo=gmail)
@@ -115,10 +115,3 @@ Plataforma de apoyo a microempresarios universitarios (Firebase, JS, HTML/CSS).
 </tr>
 </table>
 
----
-
-## ✨ Frase destacada para mi banner
-
-> **"Ciencia, arte y código: una fusión para comprender y transformar el mundo."**
-
----
