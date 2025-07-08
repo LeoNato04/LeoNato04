@@ -3,7 +3,7 @@
 <p><em>Transformo ciencia, datos y tecnología en soluciones visuales e interactivas.</em></p>
 </div>
 
-<img src="https://ibb.co/q3532MyP" alt="Banner Leonel Fortunato">
+<img src="assets/banner.png" alt="Banner Leonel Fortunato">
 
 [![GitHub followers](https://img.shields.io/github/followers/LeoNato04?style=social)](https://github.com/LeoNato04)
 ![Email](https://img.shields.io/badge/email-leonel.lizarbe@unmsm.edu.pe-blue?style=flat-square&logo=gmail)
