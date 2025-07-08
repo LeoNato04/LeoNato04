@@ -6,7 +6,8 @@
 <img src="assets/banner.png" alt="Banner Leonel Fortunato">
 
 [![GitHub followers](https://img.shields.io/github/followers/LeoNato04?style=social)](https://github.com/LeoNato04)
-![Email](https://img.shields.io/badge/email-leonel.lizarbe@unmsm.edu.pe-blue?style=flat-square&logo=gmail)
+[![Email](https://img.shields.io/badge/email-leonel.lizarbe@unmsm.edu.pe-blue?style=flat-square&logo=gmail)](mailto:leonel.lizarbe@unmsm.edu.pe)
+
 
 ## Sobre mí
 
