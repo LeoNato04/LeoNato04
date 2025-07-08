@@ -51,7 +51,7 @@ Plataforma de apoyo a microempresarios universitarios (Firebase, JS, HTML/CSS).
 <h3 align="center">SanMarket</h3>
 <div align="center">
 <a href="https://github.com/LeoNato04/SanMarket" target="_blank">
-<img src="https://i.imgur.com/YzFDlMX.jpg" width="400" alt="SanMarket">
+<img src="assets/Captura_SanMarket.png" width="400" alt="SanMarket">
 </a>
 <p>
 <a href="https://github.com/LeoNato04/SanMarket" target="_blank">
@@ -66,7 +66,7 @@ Plataforma de apoyo a microempresarios universitarios (Firebase, JS, HTML/CSS).
 <h3 align="center">Visualizador 3D del sistema digestivo</h3>
 <div align="center">
 <a href="https://github.com/LeoNato04" target="_blank">
-<img src="https://i.imgur.com/GYeFKgO.jpg" width="400" alt="Sistema digestivo 3D">
+<img src="assets/captura_sistema.jpg" width="400" alt="Sistema digestivo 3D">
 </a>
 <p>
 <a href="https://github.com/LeoNato04" target="_blank">
@@ -87,7 +87,7 @@ Plataforma de apoyo a microempresarios universitarios (Firebase, JS, HTML/CSS).
 <h3 align="center">Simulador del Sistema Solar</h3>
 <div align="center">
 <a href="https://github.com/LeoNato04" target="_blank">
-<img src="https://i.imgur.com/JZs7oqd.jpg" width="400" alt="Sistema Solar OpenGL">
+<img src="assets/Captura_Sistema_Solar.png" width="400" alt="Sistema Solar OpenGL">
 </a>
 <p>
 <a href="https://github.com/LeoNato04" target="_blank">
@@ -102,7 +102,7 @@ Plataforma de apoyo a microempresarios universitarios (Firebase, JS, HTML/CSS).
 <h3 align="center">Modelo Epidemiológico TB</h3>
 <div align="center">
 <a href="https://github.com/LeoNato04" target="_blank">
-<img src="https://i.imgur.com/VUWSBzi.jpg" width="400" alt="Modelo TB Pakistán">
+<img src="assets/Captura_Somulador_1" width="400" alt="Modelo TB Pakistán">
 </a>
 <p>
 <a href="https://github.com/LeoNato04" target="_blank">
