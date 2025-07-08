@@ -66,7 +66,7 @@ Plataforma de apoyo a microempresarios universitarios (Firebase, JS, HTML/CSS).
 <h3 align="center">Visualizador 3D del sistema digestivo</h3>
 <div align="center">
 <a href="https://github.com/LeoNato04" target="_blank">
-<img src="assets/captura_sistema.jpg" width="400" alt="Sistema digestivo 3D">
+<img src="assets/Captura_sistema.jpg" width="400" alt="Sistema digestivo 3D">
 </a>
 <p>
 <a href="https://github.com/LeoNato04" target="_blank">
@@ -102,7 +102,7 @@ Plataforma de apoyo a microempresarios universitarios (Firebase, JS, HTML/CSS).
 <h3 align="center">Modelo Epidemiológico TB</h3>
 <div align="center">
 <a href="https://github.com/LeoNato04" target="_blank">
-<img src="assets/Captura_Somulador_1" width="400" alt="Modelo TB Pakistán">
+<img src="assets/Captura_Somulador_1.png" width="400" alt="Modelo TB Pakistán">
 </a>
 <p>
 <a href="https://github.com/LeoNato04" target="_blank">
